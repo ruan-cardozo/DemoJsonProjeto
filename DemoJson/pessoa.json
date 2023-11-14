@@ -1,0 +1,46 @@
+[
+    {
+        "Nome": "Ruan Cardozo",
+        "Idade": 25,
+        "Empresa": "Casa do Código",
+        "Endereco": [
+            {
+                "Rua": "Rua do Desenvolvedor",
+                "Numero": 123,
+                "Bairro": "Centro",
+                "Cidade": "São Paulo",
+                "Estado": "SP"
+            }
+        ]
+    },
+
+    {
+        "Nome": "Ruan Cardozo",
+        "Idade": 25,
+        "Empresa": "Casa do Código",
+        "Endereco": [
+            {
+                "Rua": "Rua do Desenvolvedor",
+                "Numero": 123,
+                "Bairro": "Centro",
+                "Cidade": "São Paulo",
+                "Estado": "SP"
+            }
+        ]
+    },
+
+    {
+        "Nome": "Ruan Cardozo",
+        "Idade": 25,
+        "Empresa": "Casa do Código",
+        "Endereco": [
+            {
+                "Rua": "Rua do Desenvolvedor",
+                "Numero": 123,
+                "Bairro": "Centro",
+                "Cidade": "São Paulo",
+                "Estado": "SP"
+            }
+        ]
+    }
+]
